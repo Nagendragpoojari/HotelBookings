@@ -1,0 +1,91 @@
+body{
+    color: white;
+}
+.Section1{
+    font-family: 'Pacifico', cursive;
+    font-size: 7rem;
+    color: white;
+    margin: 20px;
+    padding: 40px;
+    background-color: #CF0404;
+    text-align: center;
+    border: #CF0404 10px solid;
+    border-radius: 20px;
+}
+.Section2{
+    font-family: 'Russo One', sans-serif;
+    font-size: 2rem;
+    color: white;
+    margin: 20px;
+    padding: 40px;
+    background-color: #CF0404;
+    text-align: center;
+    border: #CF0404 10px solid;
+    border-radius: 20px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: #041C32;
+}
+
+.Section3{
+    font-family: 'Russo One', sans-serif;
+    font-size: 2rem;
+    color: #041C32;
+    margin: 20px;
+    padding: 40px;
+    background-color: white;
+    text-align: center;
+    border: #CF0404 10px solid;
+    border-radius: 20px; 
+}
+
+.Section4{
+    font-family: 'Russo One', sans-serif;
+    font-size: 1.5rem;
+    color: white;
+    margin: 20px;
+    padding: 40px;
+    background-color: #CF0404;
+    text-align: center;
+    border: #CF0404 10px solid;
+    border-radius: 20px; 
+}
+p{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+img{
+    border-radius: 10px;
+}
+
+.Section5{
+        font-family: 'Russo One', sans-serif;
+    font-size: 2rem;
+    color: #041C32;
+    margin: 20px;
+    padding: 40px;
+    background-color: white;
+    text-align: center;
+    border: #CF0404 2px solid;
+    border-radius: 10px; 
+}
+input{
+        font-family: 'Josefin Sans', sans-serif;
+             font-size: 2rem ;
+}
+.form-group{
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 3rem ;
+}
+
+.form-control{
+    font-size: 2rem;
+}
+.table .table-striped .table-bordered{
+    padding: 20px;
+}
